@@ -1,3 +1,3 @@
 # GradeManagementSystemPro-
 Personal Academic Performance Information Management Software Design  本研究设计并实现了一个基于Java的个人成绩信息管理系统，旨在为学生和教育机构提供一个方便的工具，用于有效地管理和维护学生成绩信息。该系统通过图形用户界面（GUI）提供用户友好的交互界面，其中包括表格显示学生成绩信息以及按钮用于添加、修改、删除、保存和加载数据。
-GradeManagementSystemPro/out/production/GradeManagementSystemPro/GradeManagementSystem
+GradeManagementSystemPro/src/GradeManagementSystem.java
